@@ -1,4 +1,5 @@
 ﻿using FlightPlanner.Core.Models;
+
 namespace FlightPlanner.Core.Dto
 {
     public class FlightRequest
